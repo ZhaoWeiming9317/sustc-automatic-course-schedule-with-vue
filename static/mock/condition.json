@@ -1,0 +1,34 @@
+{
+  "code": "0",
+  "message": "请求成功！",
+  "conditionData": [
+    {
+      "condition": "早上起不来（第一节课空）",
+      "type": 0
+    },
+    {
+      "condition": "午饭不排队（第二节课空）",
+      "type": 1
+    },
+    {
+      "condition": "我要睡午觉（第三节课空）",
+      "type": 2
+    },
+    {
+      "condition": "晚饭早点来（第四节课空）",
+      "type": 3
+    },
+    {
+      "condition": "不想上晚课（第五节课空）",
+      "type": 4
+    },
+    {
+      "condition": "早睡身体好（第六节课空）",
+      "type": 5
+    },
+    {
+      "condition": "我要当学霸（尽量满学分）",
+      "type": 6
+    }
+  ]
+}

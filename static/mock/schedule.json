@@ -1,0 +1,53 @@
+{
+  "code":"0",
+  "message":"请求成功！",
+  "courses": [
+    {
+      "id":1,
+      "times":
+      [
+        {
+          "weekDay": 1,
+          "section": 3,
+          "week": [] // 单周 -1 双周 -2
+        },
+        {
+          "weekDay": 5,
+          "section": 4,
+          "week": []
+        }
+      ],
+      "course": "计算机网络",
+      "teacher": "张进",
+      "num": 112
+    },
+    {
+      "id":2,
+      "times":
+      [
+        {
+        "weekDay": 1,
+        "section": 1,
+        "week": []
+        }
+      ],
+      "course": "论文编写",
+      "teacher": "卓老师",
+      "num": 112
+    },
+    {
+      "id":3,
+      "times":
+      [
+        {
+        "weekDay": 2,
+        "section": 4,
+        "week": []
+        }
+      ],
+      "course": "嵌入式",
+      "teacher": "史玉回",
+      "num": 112
+    }
+  ]
+}
